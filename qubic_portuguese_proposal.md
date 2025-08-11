@@ -1,9 +1,9 @@
 
-# Qubic Portuguese Expansion Campaign Proposal
+# Community Marketing-Qubic Portuguese Expansion Campaign Proposal
 
 ## 📌 Summary
 
-I am requesting funding of **$900 per month in QUBIC**, for **12 months**, to fully dedicate myself to the creation of **educational and strategic content in Portuguese** about the Qubic ecosystem. The project aims to **expand Qubic's presence in Brazil and other Portuguese-speaking countries**, using **YouTube**, **Telegram**, and **X (formerly Twitter)** as the primary platforms. Deliverables include weekly videos, daily posts, community management, and educational resources.
+I am requesting funding of **400,000,000 per month in QUBIC**, for **12 months**, to fully dedicate myself to the creation of **educational and strategic content in Portuguese** about the Qubic ecosystem. The project aims to **expand Qubic's presence in Brazil and other Portuguese-speaking countries**, using **YouTube**, **Telegram**, and **X (formerly Twitter)** as the primary platforms. Deliverables include weekly videos, daily posts, community management, and educational resources.
 
 **Public Key for payment:** `HJCSPNKPAATKRGJZQYYDMHSQABMDQAQRNNTPYYJFCCJXORSHXPOXQHDCGOXG`
 
